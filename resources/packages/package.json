@@ -1,0 +1,11 @@
+{
+  "name": "webpackages",
+  "version": "1.0.0",
+  "description": "This package contains frameworks and libraries. Required, for this website to function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
